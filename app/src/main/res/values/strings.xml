@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formular comanda</string>
+    <string name="button_next">Pagina urmatoare</string>
+    <string name="button_select_photo">Selecteaza fotografii</string>
+    <string name="button_back">Inapoi</string>
+    <string name="text_view_title">FORMULAR COMANDA FOTOCERAMICA</string>
+</resources>
